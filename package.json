@@ -1,0 +1,13 @@
+{
+  "name": "expire",
+  "version": "0.1.0",
+  "main": "main.js",
+  "authors": "R, N",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "mdbootstrap": "^4.3.1"
+  }
+}
